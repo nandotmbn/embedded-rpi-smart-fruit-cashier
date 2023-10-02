@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Apel Fuji",
+		"prices": 20000
+	},
+	{
+		"name": "Apel Hijau",
+		"prices": 15000
+	},
+	{
+		"name": "Apel Merah",
+		"prices": 17000
+	},
+	{
+		"name": "Jeruk",
+		"prices": 8000
+	},
+	{
+		"name": "Mangga",
+		"prices": 13000
+	},
+	{
+		"name": "Pisang",
+		"prices": 11000
+	},
+	{
+		"name": "Strawberry",
+		"prices": 21000
+	}
+]
